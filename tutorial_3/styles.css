@@ -4,47 +4,52 @@ body {
   color: DarkSlateGray;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Quicksand", sans-serif;
   font-weight: 600;
 }
 
 h3 {
-	font-weight: 700;
+  font-weight: 700;
 }
 
 h1 {
-	font-size: 250%; /* 45px */
-	color: Indigo;
+  font-size: 250%; /* 45px */
+  color: Indigo;
 }
 
 h2 {
-	font-size: 200%; /* 36px */
-	color: MediumVioletRed;
+  font-size: 200%; /* 36px */
+  color: MediumVioletRed;
 }
 
 h3 {
-	font-size: 177.78%; /* 32px */
-	color: LimeGreen;
+  font-size: 177.78%; /* 32px */
+  color: LimeGreen;
 }
 
 h4 {
-	font-size: 162.5%; /* 26px */
-	color: Chocolate;
+  font-size: 162.5%; /* 26px */
+  color: Chocolate;
 }
 
 h5 {
-	font-size: 122%; /* 22px */
-	color: Crimson;
+  font-size: 122%; /* 22px */
+  color: Crimson;
 }
 
 h6 {
-	font-size: 100%; /* 18px */
-	color: DeepSkyBlue;
+  font-size: 100%; /* 18px */
+  color: DeepSkyBlue;
 }
 
 strong em,
 em strong {
-	font-family: "Quicksand", sans-serif;
-    font-style: normal;
+  font-family: "Quicksand", sans-serif;
+  font-style: normal;
 }

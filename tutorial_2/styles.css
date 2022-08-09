@@ -1,5 +1,5 @@
 body {
-	font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 h2,
@@ -13,19 +13,19 @@ h2 {
 }
 
 h3 {
-  color: navy
+  color: navy;
 }
-  
+
 em {
-	background-color: yellow;
+  background-color: yellow;
 }
 
 strong {
-	color: red;
+  color: red;
 }
 
 p strong {
-	color: coral;
+  color: coral;
 }
 
 h3 strong {
