@@ -8,3 +8,4 @@ My work completing [Philip Zastrow's How To Style HTML with CSS tutorial](https:
 - [Tutorial 3](https://github.com/bsmrdel101/HTML-CSS-Practice/tree/main/tutorial_3)
 - [Tutorial 4](https://github.com/bsmrdel101/HTML-CSS-Practice/tree/main/tutorial_4)
 - [Tutorial 5](https://github.com/bsmrdel101/HTML-CSS-Practice/tree/main/tutorial_5)
+ 
