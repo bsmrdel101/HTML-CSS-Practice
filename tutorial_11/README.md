@@ -4,3 +4,4 @@
 
 # Description
 
+Learned about a lot of responsive functionality utilizing floats and columns. We can use foats to make content move to aside other content, and columns are useful for displaying columns on the page.
