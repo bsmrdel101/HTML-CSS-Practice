@@ -4,3 +4,4 @@
 
 # Description
 
+Learned about how different types of display properties can effect the content on a page. In the tutorial we used different display properties at different screen sizes to achieve an effect.
