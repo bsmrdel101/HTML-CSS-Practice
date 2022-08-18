@@ -13,4 +13,9 @@ My work completing [Philip Zastrow's How To Style HTML with CSS tutorial](https:
 - [Tutorial 8](https://github.com/bsmrdel101/HTML-CSS-Practice/tree/main/tutorial_8)
 - [Tutorial 9](https://github.com/bsmrdel101/HTML-CSS-Practice/tree/main/tutorial_9)
 - [Tutorial 10](https://github.com/bsmrdel101/HTML-CSS-Practice/tree/main/tutorial_10)
+- [Tutorial 11](https://github.com/bsmrdel101/HTML-CSS-Practice/tree/main/tutorial_11)
+- [Tutorial 12](https://github.com/bsmrdel101/HTML-CSS-Practice/tree/main/tutorial_12)
+- [Tutorial 13](https://github.com/bsmrdel101/HTML-CSS-Practice/tree/main/tutorial_13)
+- [Tutorial 14](https://github.com/bsmrdel101/HTML-CSS-Practice/tree/main/tutorial_14)
+- [Tutorial 15](https://github.com/bsmrdel101/HTML-CSS-Practice/tree/main/tutorial_15)
  
