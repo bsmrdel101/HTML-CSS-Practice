@@ -4,3 +4,4 @@
 
 # Description
 
+Learned a lot about different ways of importing custom fonts into the project, and creating a font stack. We used @font-face to host our own custom fonts, because they were not available on a google fonts. 
