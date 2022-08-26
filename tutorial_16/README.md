@@ -4,3 +4,4 @@
 
 # Description
 
+After positioning an element as absolute, it can overlap other elements. So we use a z-index to set a sorting layer, then the elements can appear in the layers we want. Also learned about very cool navbar buttons.
